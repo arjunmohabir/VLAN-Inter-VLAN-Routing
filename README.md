@@ -1,6 +1,6 @@
 # VLAN Segmentation and Inter-VLAN Routing
 
-![Topology](images/topology.png)
+![Topology](images/topology.PNG)
 
 ## Overview
 This project demonstrates VLAN segmentation and inter-VLAN routing in Cisco Packet Tracer using a single switch and a Cisco 1841 router. The network was designed with four VLANs, each assigned to a different subnet and device group. Communication between VLANs was enabled through router-on-a-stick using 802.1Q trunking and router subinterfaces.
